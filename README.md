@@ -1,2 +1,2 @@
 # Msp-Github-Web
-This is a demo repo.
+### This repo is created for beginers to learn git and github. It contains first PR's from newbies.
